@@ -19,7 +19,6 @@ from datetime import datetime, timedelta
 
 # Lista de tickers dos ativos
 tickers = ['AAPL', 'MSFT', 'AMZN', 'META', 'GOOGL']
-# tickers = ['AAPL', 'MSFT', 'AMZN', 'META', 'GOOGL', 'TSLA', 'NVDA', 'NFLX']
 
 # Nível máximo de risco aceitável (volatilidade)
 risk_tolerance = 0.25  # 25% de volatilidade máxima
